@@ -1,0 +1,12 @@
+* MPV-CONTROL README
+This is proof of concept project to control mpv by Common Lisp.
+
+* MSYS2 verions of mpv
+I use the msys2 version of mpv in my initial test.
+
+* Simple-inferiors
+I had used Simple-Inferiors to run processes in other projects so I am using it here.
+
+* Windowsisms and Unixisms
+mpv has Windows and Unix releases as does Emacs.
+I have found software components written for Emacs emms-player-mpv which fail on Windows.
