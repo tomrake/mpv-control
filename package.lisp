@@ -4,4 +4,8 @@
    #:simple-inferiors)
   (:export
    #:*mpv-executable*
-   #:mpv-play))
+   #:mpv-run
+   #:mpv-play
+   #:mpv-play-with-stdout))
+(in-package :mpv-control)
+
